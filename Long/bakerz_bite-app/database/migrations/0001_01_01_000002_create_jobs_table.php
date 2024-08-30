@@ -59,4 +59,7 @@ return new class extends Migration
     function hung(){
         return 1;
     }
+    function hung1(){
+        return 1;
+    }
 };
